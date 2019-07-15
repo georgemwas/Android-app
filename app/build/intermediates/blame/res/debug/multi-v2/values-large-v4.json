@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml",
+            "map": [
+                {
+                    "source": "/home/mgrmgac/.gradle/caches/transforms-2/files-2.1/b638a90ce54631196cf3c18ff112cdf2/res/values-large-v4/values-large-v4.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,177",
+                        "endColumns": "121,133",
+                        "endOffsets": "172,306"
+                    },
+                    "to": {
+                        "startLines": "11,12",
+                        "startColumns": "4,4",
+                        "startOffsets": "752,874",
+                        "endColumns": "121,133",
+                        "endOffsets": "869,1003"
+                    }
+                },
+                {
+                    "source": "/home/mgrmgac/.gradle/caches/transforms-2/files-2.1/c7b76af8a334af07b3cdc4735a9a92bb/res/values-large-v4/values-large-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,185,256,326,396,464,532,636",
+                        "endColumns": "58,70,70,69,69,67,67,103,115",
+                        "endOffsets": "109,180,251,321,391,459,527,631,747"
+                    }
+                }
+            ]
+        }
+    ]
+}

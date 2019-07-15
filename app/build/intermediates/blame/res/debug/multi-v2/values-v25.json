@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v25/values-v25.xml",
+            "map": [
+                {
+                    "source": "/home/mgrmgac/.gradle/caches/transforms-2/files-2.1/c7b76af8a334af07b3cdc4735a9a92bb/res/values-v25/values-v25.xml",
+                    "from": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,209,308",
+                        "endLines": "2,3,5,7",
+                        "endColumns": "70,82,12,12",
+                        "endOffsets": "121,204,303,414"
+                    }
+                }
+            ]
+        }
+    ]
+}

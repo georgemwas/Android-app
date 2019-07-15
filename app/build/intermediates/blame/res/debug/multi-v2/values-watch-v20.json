@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/home/mgrmgac/.gradle/caches/transforms-2/files-2.1/c7b76af8a334af07b3cdc4735a9a92bb/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

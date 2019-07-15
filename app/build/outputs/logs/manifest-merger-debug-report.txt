@@ -1,0 +1,215 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml:2:1-55:12
+INJECTED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml:2:1-55:12
+INJECTED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml:2:1-55:12
+INJECTED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml:2:1-55:12
+MERGED from [com.google.android.material:material:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/b638a90ce54631196cf3c18ff112cdf2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/c7b76af8a334af07b3cdc4735a9a92bb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/836664a9a2bce47cafd31aa5456475a7/AndroidManifest.xml:2:1-11:12
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/f0986d683bbf69815ce2d14ab958d481/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/f40e9dac9e35b910755e2f0f0834ec78/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/0290fcbfca5b534ad833bb48c829f6e5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/88df680d6a6ea5df91ffac6a43dd010e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/2affe7052bc70dc487d64ea91b848b2b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/69efc88a5c0f618661fb881c330255c3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/56399adfb4fcc4709f03f61f2ad6385c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/e1ceabeb1268c060d51774ecbf2b778c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/3a19625d000453f2b1a6f5846e6a0658/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/35a947d7fd210c0093734824bcf7f72f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/5fdd0e92ce3b2561a9993f01703f433d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/8c0dcbdbc94682301bd0b732d66d6815/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/e5f68425393213ffc8114dc3fe6c6d4a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/56b6f009e3c10fdda0f2b0b1c0b98ea7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/a60d40d8fbd02d21ba804dac4568a6c7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/b8110ec862c1e09245a0fb5af0faee39/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/65ef50bec85733b9d91b07f634ffdc91/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/ef09d23e9d3bbc63038589c2e354078b/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/381d31022b218bfb3f5d8c44629663f1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/3edfef43f03449b452ae61ea7a5040aa/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/8b837bf2caecaf3f7bf40b471b4acac5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/33de557ed38364a151d9fd20aac87560/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/cc0e4be3d9e8477ca1adce6d7f9d722a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/f2a1232986aa8e5d6227fd759d41f8f1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/8dea8a2c060197345c3c9a2b0c911eb2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/c0378905bfdcfd894155f356583f7864/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/e33accae4dba86ff8d6baf1b00ae56d9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/40e9f5854eb06f87c627b6660e276e68/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/1d153d493e2a128dc5a8ec084ffe7740/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml:2:1-55:12
+INJECTED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml:2:1-55:12
+INJECTED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml:2:1-55:12
+	package
+		ADDED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml:4:5-37
+		INJECTED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml
+		ADDED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml:2:1-55:12
+		INJECTED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml
+		ADDED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml:2:1-55:12
+		INJECTED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml:8:5-53:19
+MERGED from [com.google.android.material:material:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/b638a90ce54631196cf3c18ff112cdf2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/b638a90ce54631196cf3c18ff112cdf2/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/836664a9a2bce47cafd31aa5456475a7/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/836664a9a2bce47cafd31aa5456475a7/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/f0986d683bbf69815ce2d14ab958d481/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/f0986d683bbf69815ce2d14ab958d481/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/65ef50bec85733b9d91b07f634ffdc91/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/65ef50bec85733b9d91b07f634ffdc91/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/ef09d23e9d3bbc63038589c2e354078b/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/ef09d23e9d3bbc63038589c2e354078b/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/65ef50bec85733b9d91b07f634ffdc91/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml:12:9-41
+	android:hardwareAccelerated
+		ADDED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml:10:9-43
+	tools:ignore
+		ADDED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml:16:9-48
+	android:roundIcon
+		ADDED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml:15:9-40
+activity#com.example.alc4phase1.test
+ADDED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml:18:9-26:20
+	android:parentActivityName
+		ADDED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml:21:13-55
+	android:label
+		ADDED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml:20:13-56
+	android:theme
+		ADDED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml:22:13-56
+	android:name
+		ADDED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml:19:13-33
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml:23:13-25:71
+	android:value
+		ADDED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml:25:17-68
+	android:name
+		ADDED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml:24:17-63
+activity#com.example.alc4phase1.MyProfile
+ADDED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml:28:9-34:20
+	android:label
+		ADDED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml:30:13-44
+	android:theme
+		ADDED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml:29:13-56
+	android:name
+		ADDED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml:28:19-44
+activity#com.example.alc4phase1.AboutALC
+ADDED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml:36:9-42:20
+	android:label
+		ADDED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml:38:13-45
+	android:theme
+		ADDED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml:37:13-56
+	android:name
+		ADDED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml:36:19-43
+activity#com.example.alc4phase1.MainActivity
+ADDED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml:44:9-50:20
+	android:name
+		ADDED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml:44:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml:45:13-49:29
+action#android.intent.action.MAIN
+ADDED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml:46:17-69
+	android:name
+		ADDED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml:46:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml:48:17-77
+	android:name
+		ADDED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml:48:27-74
+uses-sdk
+INJECTED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml
+INJECTED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/b638a90ce54631196cf3c18ff112cdf2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/b638a90ce54631196cf3c18ff112cdf2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/c7b76af8a334af07b3cdc4735a9a92bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/c7b76af8a334af07b3cdc4735a9a92bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/836664a9a2bce47cafd31aa5456475a7/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/836664a9a2bce47cafd31aa5456475a7/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/f0986d683bbf69815ce2d14ab958d481/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/f0986d683bbf69815ce2d14ab958d481/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/f40e9dac9e35b910755e2f0f0834ec78/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/f40e9dac9e35b910755e2f0f0834ec78/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/0290fcbfca5b534ad833bb48c829f6e5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/0290fcbfca5b534ad833bb48c829f6e5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/88df680d6a6ea5df91ffac6a43dd010e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/88df680d6a6ea5df91ffac6a43dd010e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/2affe7052bc70dc487d64ea91b848b2b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/2affe7052bc70dc487d64ea91b848b2b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/69efc88a5c0f618661fb881c330255c3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/69efc88a5c0f618661fb881c330255c3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/56399adfb4fcc4709f03f61f2ad6385c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/56399adfb4fcc4709f03f61f2ad6385c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/e1ceabeb1268c060d51774ecbf2b778c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/e1ceabeb1268c060d51774ecbf2b778c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/3a19625d000453f2b1a6f5846e6a0658/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/3a19625d000453f2b1a6f5846e6a0658/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/35a947d7fd210c0093734824bcf7f72f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/35a947d7fd210c0093734824bcf7f72f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/5fdd0e92ce3b2561a9993f01703f433d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/5fdd0e92ce3b2561a9993f01703f433d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/8c0dcbdbc94682301bd0b732d66d6815/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/8c0dcbdbc94682301bd0b732d66d6815/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/e5f68425393213ffc8114dc3fe6c6d4a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/e5f68425393213ffc8114dc3fe6c6d4a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/56b6f009e3c10fdda0f2b0b1c0b98ea7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/56b6f009e3c10fdda0f2b0b1c0b98ea7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/a60d40d8fbd02d21ba804dac4568a6c7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/a60d40d8fbd02d21ba804dac4568a6c7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/b8110ec862c1e09245a0fb5af0faee39/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/b8110ec862c1e09245a0fb5af0faee39/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/65ef50bec85733b9d91b07f634ffdc91/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/65ef50bec85733b9d91b07f634ffdc91/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/ef09d23e9d3bbc63038589c2e354078b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/ef09d23e9d3bbc63038589c2e354078b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/381d31022b218bfb3f5d8c44629663f1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/381d31022b218bfb3f5d8c44629663f1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/3edfef43f03449b452ae61ea7a5040aa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/3edfef43f03449b452ae61ea7a5040aa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/8b837bf2caecaf3f7bf40b471b4acac5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/8b837bf2caecaf3f7bf40b471b4acac5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/33de557ed38364a151d9fd20aac87560/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/33de557ed38364a151d9fd20aac87560/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/cc0e4be3d9e8477ca1adce6d7f9d722a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/cc0e4be3d9e8477ca1adce6d7f9d722a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/f2a1232986aa8e5d6227fd759d41f8f1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/f2a1232986aa8e5d6227fd759d41f8f1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/8dea8a2c060197345c3c9a2b0c911eb2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/8dea8a2c060197345c3c9a2b0c911eb2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/c0378905bfdcfd894155f356583f7864/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/c0378905bfdcfd894155f356583f7864/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/e33accae4dba86ff8d6baf1b00ae56d9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/e33accae4dba86ff8d6baf1b00ae56d9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/40e9f5854eb06f87c627b6660e276e68/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/40e9f5854eb06f87c627b6660e276e68/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/1d153d493e2a128dc5a8ec084ffe7740/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/mgrmgac/.gradle/caches/transforms-2/files-2.1/1d153d493e2a128dc5a8ec084ffe7740/AndroidManifest.xml:20:5-44
+INJECTED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml
+INJECTED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml
+		ADDED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml
+		ADDED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mgrmgac/Documents/android/pluralsight/android-enhancing-application-experience/02-binding-data-to-recyclerview/binding-data-to-recyclerview-exercise-files/exercise-files/after/NoteKeeper/ALC4Phase1/app/src/main/AndroidManifest.xml
